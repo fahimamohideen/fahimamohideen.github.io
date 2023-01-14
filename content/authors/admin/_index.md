@@ -83,5 +83,5 @@ highlight_name: true
 
 I am a fourth year PhD Candidate in the Social Psychology graduate program at Rutgers University - Newark. My research interests lie at the intersection of social and positive psychology – I study meaning in life, well-being, and positive outcomes in individual and societal contexts. In some of my recent projects I investigate the sources of momentary meaning in daily life, and the role of feelings of meaning in collective action against societal injustice. 
 
-An integral part of my approach involves studying people's feelings and behavior as they occur in real life using experience sampling and daily diary methods, alongside surveys and experimental designs. My long-term goal is the utilize my research and analytical skills to understand and address the psychological and behavioral underpinnings of real-world issues for societal benefit.
+An integral part of my approach involves studying people's feeling states and behavior as they occur in real life using experience sampling and daily diary methods, alongside surveys and experimental designs. My long-term goal is the utilize my research and analytical skills to understand and address the psychological and behavioral underpinnings of real-world issues for societal benefit.
 
