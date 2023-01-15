@@ -1,24 +1,15 @@
 ---
-# Display name
-title: Fahima Mohideen
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: about
 
-# Full name (for SEO)
-first_name: Fahima
-last_name: Mohideen
+# This file represents a page section.
+headless: true
 
-# Is this the primary user of the site?
-superuser: true
+# Order that this section appears on the page.
+weight: 60
 
-# Role/position/tagline
-role: PhD Candidate in Social Psychology
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Well-being Lab, Rutgers University - Newark
-    url: https://samanthaheintzelman.com/lab-members/
-
-# Short bio (displayed in user profile at end of posts)
-bio: 
+title: Hi there!
 
 # Interests to show in About widget
 interests:
@@ -42,30 +33,6 @@ education:
     - course: BS in Psychology
       institution: University of Madras
       year: 2015
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=rnGhkmQAAAAJ&hl=en&oi=ao
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/fahima-mohideen/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/hitchtheory
-    label: Follow me on Twitter
-    display:
-      header: false
-  - icon: osf
-    icon_pack: ai
-    link: https://osf.io/2rgx5/
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:fm399@psychology.rutgers.edu'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,

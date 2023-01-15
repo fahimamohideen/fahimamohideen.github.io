@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 title: 
 
@@ -18,6 +18,15 @@ title:
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+
+design:
+  background:
+    # Choose colors such as from https://html-color-codes.info
+    gradient_start: 
+    gradient_end: 
+    # The gradient angle from 0-360 degrees
+    gradient_angle: 
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
 ---
 
 
