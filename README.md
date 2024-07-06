@@ -1,4 +1,6 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# http://fahimamohideen.github.io 
+
+[Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
