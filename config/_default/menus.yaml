@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Academic CV
+  - name: CV
     url: https://drive.google.com/file/d/1ng1yH9aTDihGpWOOGPKv6FHlLfqAB93l/view?usp=share_link
     weight: 30
   - name: Resume

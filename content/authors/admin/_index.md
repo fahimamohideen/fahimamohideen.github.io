@@ -10,7 +10,7 @@ last_name: Mohideen
 superuser: true
 
 # Role/position/tagline
-role: PhD Social Psychology
+role: PhD Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
