@@ -13,9 +13,9 @@ title: Hi there!
 
 # Interests to show in About widget
 interests:
+  - Collective Action
   - Meaning in Life
   - Happiness & Well-being
-  - Collective Action
   - Injustice & Inequality
 
 # Education to show in About widget
@@ -23,7 +23,7 @@ education:
   courses:
     - course: PhD in Social Psychology
       institution: Rutgers University - Newark
-      year: ongoing
+      year: 2024
     - course: MA in Psychology
       institution: Rutgers University - Newark
       year: 2022

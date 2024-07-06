@@ -29,8 +29,8 @@ summary: ""
 tags:
 - 
 links:
-- name: View Online
-  url: https://www.atlantis-press.com/proceedings/mil-22/125980410
+# - name: View Online
+#  url: https://www.atlantis-press.com/proceedings/mil-22/125980410
 url_pdf: "pdf/Heintzelman & Mohideen, 2022.pdf"
 url_code: ''
 url_dataset: ''

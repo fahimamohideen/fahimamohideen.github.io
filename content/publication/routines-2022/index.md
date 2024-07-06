@@ -3,7 +3,7 @@ title: "Routines and Meaning in Life: Does Activity Content or Context Matter?"
 authors: 
 - admin
 - Samantha J. Heintzelman
-date: "2022-04-26"
+date: "2023-07-01"
 doi: "https://doi.org/10.1177/01461672221085797"
 
 # Schedule page publish date (NOT publication's date).

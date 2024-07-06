@@ -10,7 +10,7 @@ last_name: Mohideen
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Social Psychology
+role: PhD Social Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,9 +22,9 @@ bio:
 
 # Interests to show in About widget
 interests:
+  - Collective Action
   - Meaning in Life
   - Happiness & Well-being
-  - Collective Action
   - Injustice & Inequality
 
 # Education to show in About widget
@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Social Psychology
       institution: Rutgers University - Newark
-      year: ongoing
+      year: 2024
     - course: MA in Psychology
       institution: Rutgers University - Newark
       year: 2022
@@ -80,8 +80,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-## Hi there!
-I am a fourth year PhD Candidate in the Social Psychology graduate program at Rutgers University - Newark. I research topics at the intersection of social and positive psychology – I study meaning in life, well-being, and positive outcomes in individual and societal contexts. In some of my recent projects I investigate the sources of momentary meaning in daily life, and the role of feelings of meaning in collective action against societal injustice. 
 
-An integral part of my approach involves studying people's feeling states and behavior as they occur in real life using experience sampling and daily diary methods, alongside surveys and experimental designs. My long-term goal is to utilize my research and analytical skills to understand and address the psychological and behavioral underpinnings of real-world issues for societal benefit.
+I am a social psychologist studying topics at the intersection of social and positive psychology for individual and collective good. My research broadly examines well-being within everyday life and in relation to sociopolitical contexts like injustice. For example, I have tested predictors and outcomes of collective action as it relates to well-being using a multi-method approach and across various social issues such as racial injustice, gun violence, and participants' self-selected issues. In a second line of work, I have studied how people perceive, pursue, and experience meaning in their lives. 
+
+An integral part of my approach involves employing a diverse methodological toolkit integrating survey, longitudinal, experimental, daily diary, and experience sampling methods, and targeting generalizability by recruiting diverse samples from specialized populations and across the world. 
+
+My long-term goal is to utilize my research and analytical skills to understand and address the psychological and behavioral underpinnings of real-world issues for societal benefit.
 
